@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi! I'm Sebastian but most people call me Seb!
+
+I'm a recent graduate of Concordia Full Stack Web Development Bootcamp and am eager to begin my career in tech!
+
+# My Experience
+
+![badge1](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **sebastian-balk-forcione/sebastian-balk-forcione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
