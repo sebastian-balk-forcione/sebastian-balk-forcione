@@ -1,4 +1,4 @@
-## Hi! I'm Sebastian but most people call me Seb!
+## Hi! I'm Sebastian, but most people call me Seb!
 
 I'm a recent graduate of Concordia Full Stack Web Development Bootcamp and am eager to begin my career in tech!
 
