@@ -1,10 +1,12 @@
-## Hi! I'm Sebastian, but most people call me Seb!
+## Hi! 
+
+###I'm Sebastian, but most people call me Seb!
 
 I'm a recent graduate of Concordia Full Stack Web Development Bootcamp and am eager to begin my career in tech!
 
 ### My Experience
 
-![badge1](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![badge2](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB ) ![badge3](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![badge4](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![badge5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![badge6](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![badge7](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![badge8](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB ) ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)   ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <!--
 **sebastian-balk-forcione/sebastian-balk-forcione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
