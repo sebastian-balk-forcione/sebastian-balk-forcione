@@ -4,7 +4,7 @@ My name's Sebastian, but most people call me Seb!
 
 As a fresh graduate from Concordia's **Full Stack Web Development Bootcamp**, I'm eager to begin the next leg of my career pivot. :flight_departure:
 
-From working as a professional musician to getting my feet wet with commercial real estate, I offer a unique persepctive and a wide range of problem solving experience. 
+From working as a professional musician to getting my feet wet with commercial real estate, I offer a unique perspective and a wide range of problem solving experience. 
 
 ### My Experience
 
